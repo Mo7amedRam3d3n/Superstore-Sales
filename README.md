@@ -2,8 +2,6 @@
 
 A single-page Power BI dashboard built on the Superstore dataset to answer one question: **where do profits get lost despite high sales?**
 
-![Dashboard](dashboard.png)
-
 ## 🗂️ Data
 
 An Excel file with three sheets:
